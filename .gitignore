@@ -1,1 +1,4 @@
 /data/
+/linear-model/data/
+/cnn-model/data/
+*data/
